@@ -4,6 +4,7 @@ class Textos:
     configuraciones = "Configuraciones"
     fuente_base = "Pacifico"    
     login = "Log-in"
+    nombre_AI = "MIA"
 
     nuevo_usuario_vacio = "Ingrese un alias"
     bienvenido_usuario = "{usuario} se ha unido al chat."
